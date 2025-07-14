@@ -1,0 +1,7 @@
+[book]
+title = "Pentest Notes - Cheatsheet"
+author = "0xSs0rZ"
+
+[output.html]
+default-theme = "light"
+site-url = "/gitbook-migration/"
